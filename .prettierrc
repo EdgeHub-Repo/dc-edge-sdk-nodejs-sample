@@ -1,0 +1,11 @@
+{
+	"embeddedLanguageFormatting": "auto",
+	"bracketSpacing": true,
+	"arrowParens": "always",
+	"printWidth": 120,
+	"useTabs": true,
+	"trailingComma": "es5",
+	"tabWidth": 4,
+	"semi": true,
+	"singleQuote": false
+}
