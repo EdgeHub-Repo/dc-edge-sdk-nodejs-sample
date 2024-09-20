@@ -11,6 +11,6 @@
 	"license": "ISC",
 	"description": "",
 	"dependencies": {
-		"edgesync360-edgehub-edge-nodejs-sdk": "^1.0.0"
+		"edgesync360-edgehub-edge-nodejs-sdk": "^1.0.2"
 	}
 }
